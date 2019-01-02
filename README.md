@@ -1,4 +1,4 @@
-# django-isbn-field [![Build Status](https://travis-ci.org/secnot/django-isbn-field.svg?branch=master)](https://travis-ci.org/secnot/django-isbn-field)
+# django2-isbn-field [![Build Status](https://travis-ci.org/ayr-ton/django2-isbn-field.svg?branch=master)](https://travis-ci.org/ayr-ton/django2-isbn-field)
 
 Provides django model field to store and validate ISBN numbers.
 
@@ -6,25 +6,25 @@ Provides django model field to store and validate ISBN numbers.
 
 It has been tested on
 
-* Python >= 3.3
-* Django 1.7, 1.8, 1.9, 1.10, 1.11, 2.0
+* Python >= 3.5
+* Django 1.10, 1.11, 2.0
 
 ## Installation
 
 From Pypi
 
 ```bash
-$ pip install django-isbn-field
+$ pip install django2-isbn-field
 ```
 
 or from the repository
 
 ```bash
-$ git clone https://github.com/secnot/django-isbn-field
+$ git clone https://github.com/ayr-ton/django2-isbn-field
 $ python setup.py install
 ```
 
-## Usage 
+## Usage
 
 Add isbn_field to INSTALLED_APPS
 
